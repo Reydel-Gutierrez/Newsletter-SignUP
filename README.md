@@ -1,3 +1,3 @@
 # Newsletter-SignUp
 
-Local server requesting to MailChimp API to register New Users.
+Local Login system requesting to MailChimp API to register New Users to a newsletter
